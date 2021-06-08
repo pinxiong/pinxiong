@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 + 📫 We're hiring, please mail to pinxiongcn@foxmail.com
 
 <!--
-![Xiong, Pin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobodyiam&show_icons=true&theme=chartreuse-dark)
+![Xiong, Pin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinxiong&show_icons=true&theme=chartreuse-dark)
 -->
 <!--
 [![Xiong, Pin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinxiong&show_icons=true&theme=chartreuse-dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
