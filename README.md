@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 + 👯 Contributing to [Apache Dubbo](https://github.com/apache/dubbo)
-+ 🔭 Learning RPC, Service Mash and Dapr
++ 🔭 Learning RPC, Service Mesh and Dapr
 + 🏬 Working at [Trip.com Group](https://www.trip.com/)
 + 📫 We're hiring, please mail to pinxiongcn@foxmail.com
 
