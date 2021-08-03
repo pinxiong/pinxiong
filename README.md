@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 + 🔭 Learning RPC, Service Mesh, Serverless and Dapr
 + 🏬 Working at [Trip.com Group](https://www.trip.com/)
 + 📫 We're hiring, please mail to pinxiongcn@foxmail.com
++ 😄 Campus Recruitment: https://campus.ctrip.com/recommendation-apply/trip/38951#/
 
 <!--
 ![Xiong, Pin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinxiong&show_icons=true&theme=chartreuse-dark)
