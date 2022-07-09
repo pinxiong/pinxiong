@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 + 👯 Contributing to [Apache Dubbo](https://github.com/apache/dubbo)、[Istio](https://github.com/istio/istio) and [Aeraki Mesh](https://github.com/aeraki-mesh/aeraki)
 + 🔭 Learning RPC, Service Mesh and Serverless
-+ 🏬 Working at [Trip.com Group](https://www.trip.com/)
-+ 📫 We're hiring, please mail to pinxiongcn@foxmail.com
 
 <!--
 ![Xiong, Pin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinxiong&show_icons=true&theme=chartreuse-dark)
