@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-+ 👯 Contributing to [Apache Dubbo](https://github.com/apache/dubbo)、[Istio](https://github.com/istio/istio) and [Aeraki Mesh](https://github.com/aeraki-mesh/aeraki)
-+ 🔭 Learning RPC, Service Mesh and Serverless
++ 👯 Contributing to [Apache Dubbo](https://github.com/apache/dubbo)
++ 🔭 Learning Service Mesh, Serverless and GAI
 
 <!--
 ![Xiong, Pin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinxiong&show_icons=true&theme=chartreuse-dark)
