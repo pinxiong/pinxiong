@@ -4,7 +4,7 @@ Apache Dubbo Committer, AWS Community Builder.
 
 10+ years of experience in the internet industry, familiar with microservices, middleware, Cloud Native, and Serverless. Currently focused on AI-related technology.
 
-Writing at [xiongpin.dev](https://xiongpin.dev). Latest: [AI Coding in Practice: Refactoring a Zero-Docs Microservice](https://xiongpin.dev/posts/ai-coding-in-practice-zero-docs-microservice/)
+Writing at [xiongpin.dev](https://xiongpin.dev). 
 
 <!--
 This repository is special: its README.md is rendered on the GitHub profile page.
